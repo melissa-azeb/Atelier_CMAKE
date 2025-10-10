@@ -4,4 +4,3 @@ double _mul(double a, double b);
 double _div(double a, double b);
 
 
-int car(int x);  // ajout de la fonction carré
