@@ -30,10 +30,8 @@ int main(int argc, char *argv[]){
 	}
 	else {printf("Erreur de parametres");}
 	return 0;
-}
 
-int main() {
-    printf("Carre de 5 = %d\n", car(5));
+	int x = 5;
+    printf("Carre de %d = %d\n", x, car(x));
     return 0;
 }
-		
