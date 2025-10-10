@@ -14,5 +14,3 @@ jobs:
           cmake ..
           make
           make test
-
- 
