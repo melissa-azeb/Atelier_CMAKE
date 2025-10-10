@@ -32,4 +32,12 @@ int main(int argc, char *argv[]){
 	return 0;
 }
 
+#include <stdio.h>
+#include "calculator.h"
+
+int main() {
+    printf("Carre de 5 = %d\n", car(5));
+    return 0;
+}
+
 		
