@@ -16,8 +16,6 @@ double _div(double a, double b) {
 	return a/b;
 }
 
-#include "calculator.h"
-
 int car(int x) {
     return x * x;
 }
