@@ -32,5 +32,8 @@ int main(int argc, char *argv[]){
 	return 0;
 }
 
-
+int main() {
+    printf("Carre de 5 = %d\n", car(5));
+    return 0;
+}
 		
